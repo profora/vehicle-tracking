@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="21.9307249" lon="96.0867691">
+		<name>Start point</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.930924" lon="96.0860181">
+		<name>Point 2</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9311031" lon="96.0850954">
+		<name>Point 3</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9312624" lon="96.0841513">
+		<name>Point 4</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9314813" lon="96.0833788">
+		<name>Point 5</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9316405" lon="96.082499">
+		<name>Point 6</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9319391" lon="96.0809755">
+		<name>Point 7</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9324168" lon="96.0800529">
+		<name>Point 8</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9330538" lon="96.0794091">
+		<name>Point 9</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9341684" lon="96.0789156">
+		<name>Point 10</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9349646" lon="96.0788941">
+		<name>Point 11</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9358006" lon="96.0789585">
+		<name>Point 12</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9364972" lon="96.0791302">
+		<name>Point 13</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9372138" lon="96.0792375">
+		<name>Point 14</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9380696" lon="96.0793662">
+		<name>Point 15</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9388459" lon="96.079452">
+		<name>Point 16</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.939642" lon="96.0795808">
+		<name>Point 17</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9403586" lon="96.0796666">
+		<name>Point 18</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9411945" lon="96.0797739">
+		<name>Point 19</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9419708" lon="96.0799026">
+		<name>Point 20</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9429659" lon="96.0800958">
+		<name>Point 21</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.943762" lon="96.0803318">
+		<name>Point 22</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9445184" lon="96.0805464">
+		<name>Point 23</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9452747" lon="96.080761">
+		<name>Point 24</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9461305" lon="96.0810828">
+		<name>Point 25</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9469664" lon="96.0813403">
+		<name>Point 26</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9477227" lon="96.0815978">
+		<name>Point 27</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9485188" lon="96.0818553">
+		<name>Point 28</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9494144" lon="96.0821342">
+		<name>Point 29</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9505687" lon="96.0825205">
+		<name>Point 30</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9516833" lon="96.0829496">
+		<name>Point 31</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9532754" lon="96.0835075">
+		<name>Stop 5 Minutes</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9545889" lon="96.0838509">
+		<name>Point 33</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9560218" lon="96.0839796">
+		<name>Point 34</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9573751" lon="96.0841084">
+		<name>Point 35</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9587682" lon="96.0840225">
+		<name>Point 36</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9610369" lon="96.08428">
+		<name>Point 37</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9628279" lon="96.0843658">
+		<name>Point 38</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9645792" lon="96.0844731">
+		<name>Point 39</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9661115" lon="96.0846019">
+		<name>Point 40</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9677432" lon="96.0846663">
+		<name>Point 41</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9692755" lon="96.084795">
+		<name>Point 42</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9693153" lon="96.0835934">
+		<name>Point 43</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9708277" lon="96.0837436">
+		<name>Point 44</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9724395" lon="96.0838294">
+		<name>Stop Point</name>
+		<sym>Car</sym>
+	</wpt>
+</gpx>

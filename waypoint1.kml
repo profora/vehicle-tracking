@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+	<Document>
+		<name>GPS Visualizer data</name>
+		<Style id="waypoint">
+			<IconStyle>
+				<color>ffffffff</color>
+				<scale>1</scale>
+				<Icon><href>http://maps.google.com/mapfiles/kml/pal4/icon56.png</href></Icon>
+				<hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" />
+			</IconStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3> <div style="margin-top:8px;">$[description]</div>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id="track">
+			<LineStyle>
+				<color>ff0000ff</color>
+				<width>3</width>
+			</LineStyle>
+		</Style>
+		<Style id="polygon">
+			<LineStyle>
+				<color>ff9900ff</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>409900ff</color>
+				<colorMode>normal</colorMode>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Folder>
+			<name>Waypoints</name>
+			<Placemark>
+				<name>Tracking start</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0829926,21.9019594</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 2</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0817051,21.9051448</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 3</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0811043,21.9080116</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 4</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0807610,21.9110376</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 5</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0817909,21.9135061</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>5 minutes stop</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0829067,21.9157357</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 7</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0838509,21.9180449</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 8</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0848808,21.9204337</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 9</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0855675,21.9229021</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 10</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0855675,21.9255297</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 11</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0862541,21.9278387</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 12</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0871124,21.9303069</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 13</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0871124,21.9328547</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 14</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0872841,21.9353229</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 15</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0872841,21.9378706</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 16</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0873699,21.9403387</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 17</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0875416,21.9429659</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 18</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0876274,21.9451951</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 19</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0877132,21.9472649</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 20</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0877132,21.9494144</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 21</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0878849,21.9529968</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>2 minutes stop</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0879707,21.9552258</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 23</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0877991,21.9573751</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 24</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0861683,21.9588876</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 25</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0859966,21.9613553</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 26</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0862541,21.9646986</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 27</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0863829,21.9684397</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 28</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0865545,21.9707083</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 29</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0866833,21.9723400</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 30</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0867691,21.9738125</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 31</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0868120,21.9753646</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 32</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0870266,21.9768769</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 33</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0871124,21.9787076</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 34</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0871553,21.9801004</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 35</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0872412,21.9815729</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 36</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0872412,21.9829657</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 37</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0855675,21.9830553</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 38</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0843873,21.9831249</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 39</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0828209,21.9832244</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tracking point 40</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0811257,21.9833239</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>End point</name>
+				<description></description>
+				<styleUrl>#waypoint</styleUrl>
+				<Style>
+					<IconStyle><color>ffffffff</color><scale>0.5</scale><Icon><href>http://maps.gpsvisualizer.com/google_maps/icons/garmin/gpsmap/Car.png</href></Icon><hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction" /></IconStyle>
+				</Style>
+				<Point>
+					<altitudeMode>clampedToGround</altitudeMode>
+					<coordinates>96.0800636,21.9834134</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPS Visualizer Sandbox http://www.gpsvisualizer.com/draw/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="21.9019594" lon="96.0829926">
+		<name>Tracking start</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9051448" lon="96.0817051">
+		<name>Tracking point 2</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9080116" lon="96.0811043">
+		<name>Tracking point 3</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9110376" lon="96.080761">
+		<name>Tracking point 4</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9135061" lon="96.0817909">
+		<name>Tracking point 5</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9157357" lon="96.0829067">
+		<name>5 minutes stop</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9180449" lon="96.0838509">
+		<name>Tracking point 7</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9204337" lon="96.0848808">
+		<name>Tracking point 8</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9229021" lon="96.0855675">
+		<name>Tracking point 9</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9255297" lon="96.0855675">
+		<name>Tracking point 10</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9278387" lon="96.0862541">
+		<name>Tracking point 11</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9303069" lon="96.0871124">
+		<name>Tracking point 12</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9328547" lon="96.0871124">
+		<name>Tracking point 13</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9353229" lon="96.0872841">
+		<name>Tracking point 14</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9378706" lon="96.0872841">
+		<name>Tracking point 15</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9403387" lon="96.0873699">
+		<name>Tracking point 16</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9429659" lon="96.0875416">
+		<name>Tracking point 17</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9451951" lon="96.0876274">
+		<name>Tracking point 18</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9472649" lon="96.0877132">
+		<name>Tracking point 19</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9494144" lon="96.0877132">
+		<name>Tracking point 20</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9529968" lon="96.0878849">
+		<name>Tracking point 21</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9552258" lon="96.0879707">
+		<name>2 minutes stop</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9573751" lon="96.0877991">
+		<name>Tracking point 23</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9588876" lon="96.0861683">
+		<name>Tracking point 24</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9613553" lon="96.0859966">
+		<name>Tracking point 25</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9646986" lon="96.0862541">
+		<name>Tracking point 26</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9684397" lon="96.0863829">
+		<name>Tracking point 27</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9707083" lon="96.0865545">
+		<name>Tracking point 28</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.97234" lon="96.0866833">
+		<name>Tracking point 29</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9738125" lon="96.0867691">
+		<name>Tracking point 30</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9753646" lon="96.086812">
+		<name>Tracking point 31</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9768769" lon="96.0870266">
+		<name>Tracking point 32</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9787076" lon="96.0871124">
+		<name>Tracking point 33</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9801004" lon="96.0871553">
+		<name>Tracking point 34</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9815729" lon="96.0872412">
+		<name>Tracking point 35</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9829657" lon="96.0872412">
+		<name>Tracking point 36</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9830553" lon="96.0855675">
+		<name>Tracking point 37</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9831249" lon="96.0843873">
+		<name>Tracking point 38</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9832244" lon="96.0828209">
+		<name>Tracking point 39</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9833239" lon="96.0811257">
+		<name>Tracking point 40</name>
+		<sym>Car</sym>
+	</wpt>
+	<wpt lat="21.9834134" lon="96.0800636">
+		<name>End point</name>
+		<sym>Car</sym>
+	</wpt>
+</gpx>

@@ -1,0 +1,680 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0867691,
+                    21.9307249
+                ]
+            },
+            "properties": {
+                "name": "Start point",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0860181,
+                    21.930924
+                ]
+            },
+            "properties": {
+                "name": "Point 2",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0850954,
+                    21.9311031
+                ]
+            },
+            "properties": {
+                "name": "Point 3",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0841513,
+                    21.9312624
+                ]
+            },
+            "properties": {
+                "name": "Point 4",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0833788,
+                    21.9314813
+                ]
+            },
+            "properties": {
+                "name": "Point 5",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.082499,
+                    21.9316405
+                ]
+            },
+            "properties": {
+                "name": "Point 6",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0809755,
+                    21.9319391
+                ]
+            },
+            "properties": {
+                "name": "Point 7",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0800529,
+                    21.9324168
+                ]
+            },
+            "properties": {
+                "name": "Point 8",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0794091,
+                    21.9330538
+                ]
+            },
+            "properties": {
+                "name": "Point 9",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0789156,
+                    21.9341684
+                ]
+            },
+            "properties": {
+                "name": "Point 10",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0788941,
+                    21.9349646
+                ]
+            },
+            "properties": {
+                "name": "Point 11",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0789585,
+                    21.9358006
+                ]
+            },
+            "properties": {
+                "name": "Point 12",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0791302,
+                    21.9364972
+                ]
+            },
+            "properties": {
+                "name": "Point 13",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0792375,
+                    21.9372138
+                ]
+            },
+            "properties": {
+                "name": "Point 14",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0793662,
+                    21.9380696
+                ]
+            },
+            "properties": {
+                "name": "Point 15",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.079452,
+                    21.9388459
+                ]
+            },
+            "properties": {
+                "name": "Point 16",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0795808,
+                    21.939642
+                ]
+            },
+            "properties": {
+                "name": "Point 17",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0796666,
+                    21.9403586
+                ]
+            },
+            "properties": {
+                "name": "Point 18",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0797739,
+                    21.9411945
+                ]
+            },
+            "properties": {
+                "name": "Point 19",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0799026,
+                    21.9419708
+                ]
+            },
+            "properties": {
+                "name": "Point 20",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0800958,
+                    21.9429659
+                ]
+            },
+            "properties": {
+                "name": "Point 21",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0803318,
+                    21.943762
+                ]
+            },
+            "properties": {
+                "name": "Point 22",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0805464,
+                    21.9445184
+                ]
+            },
+            "properties": {
+                "name": "Point 23",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.080761,
+                    21.9452747
+                ]
+            },
+            "properties": {
+                "name": "Point 24",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0810828,
+                    21.9461305
+                ]
+            },
+            "properties": {
+                "name": "Point 25",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0813403,
+                    21.9469664
+                ]
+            },
+            "properties": {
+                "name": "Point 26",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0815978,
+                    21.9477227
+                ]
+            },
+            "properties": {
+                "name": "Point 27",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0818553,
+                    21.9485188
+                ]
+            },
+            "properties": {
+                "name": "Point 28",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0821342,
+                    21.9494144
+                ]
+            },
+            "properties": {
+                "name": "Point 29",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0825205,
+                    21.9505687
+                ]
+            },
+            "properties": {
+                "name": "Point 30",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0829496,
+                    21.9516833
+                ]
+            },
+            "properties": {
+                "name": "Point 31",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0835075,
+                    21.9532754
+                ]
+            },
+            "properties": {
+                "name": "Stop 5 Minutes",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0838509,
+                    21.9545889
+                ]
+            },
+            "properties": {
+                "name": "Point 33",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0839796,
+                    21.9560218
+                ]
+            },
+            "properties": {
+                "name": "Point 34",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0841084,
+                    21.9573751
+                ]
+            },
+            "properties": {
+                "name": "Point 35",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0840225,
+                    21.9587682
+                ]
+            },
+            "properties": {
+                "name": "Point 36",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.08428,
+                    21.9610369
+                ]
+            },
+            "properties": {
+                "name": "Point 37",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0843658,
+                    21.9628279
+                ]
+            },
+            "properties": {
+                "name": "Point 38",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0844731,
+                    21.9645792
+                ]
+            },
+            "properties": {
+                "name": "Point 39",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0846019,
+                    21.9661115
+                ]
+            },
+            "properties": {
+                "name": "Point 40",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0846663,
+                    21.9677432
+                ]
+            },
+            "properties": {
+                "name": "Point 41",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.084795,
+                    21.9692755
+                ]
+            },
+            "properties": {
+                "name": "Point 42",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0835934,
+                    21.9693153
+                ]
+            },
+            "properties": {
+                "name": "Point 43",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0837436,
+                    21.9708277
+                ]
+            },
+            "properties": {
+                "name": "Point 44",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    96.0838294,
+                    21.9724395
+                ]
+            },
+            "properties": {
+                "name": "Stop Point",
+                "styleUrl": "#waypoint",
+                "styleHash": "-3e686f6d"
+            }
+        }
+    ]
+}
