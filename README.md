@@ -4,7 +4,7 @@ This product intend for to track your vehicles which, when and where their locat
 ## Product Requirement
 1. GPS unit install one each vehicle
 2. GPS unit and control system will communicate through web IP
-3. Each single movement vehicle on prepared time interval will send data
+3. Each single movement of vehicle on prepared time interval should send data
 4. Critical and important notice should send to the server
 
 ## Preparation guideline
